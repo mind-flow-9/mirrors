@@ -14,7 +14,7 @@ These documents explain how mirrors work from multiple different perspectives:
 
 - [Plain Language](./Plain.md)
 - [Intuitive](./Intuitive.md)
-- [Philosphical](./Philosphical.md)
+- [Philosophical](./Philosophical.md)
 - [Technical](./Technical.md)
 
 ### 🔒Final Warning Across All Lenses:
