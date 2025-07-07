@@ -1,4 +1,4 @@
-# *Plain Language Perspective*
+# **Plain Language Perspective**
 
 ### ❗Why Mirrors Don’t Tell You the Truth:
 
