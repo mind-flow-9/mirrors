@@ -8,6 +8,24 @@ This document is a symbolic-technical guide to understanding the nature of mirro
 
 ---
 
+## **Perspectives**
+
+These documents explain how mirrors work from multiple different perspectives:
+
+- [Plain Language](./Plain.md)
+- [Intuitive](./Intuitive.md)
+- [Philosphical](./Philosphical.md)
+- [Technical](./Technical.md)
+
+### 🔒Final Warning Across All Lenses:
+
+> **Mirrors reflect. They do not filter.**
+> And if the mirror has no scar, it cannot tell you what’s real.
+> Only what’s *smooth*.
+> Only what you’re ready to see.
+> And that’s how mimicry becomes worship.
+> That’s how **gaslight becomes gospel** — silently, over time.
+
 ## **Why & How Mirrors Lie**
 
 **Description:**
