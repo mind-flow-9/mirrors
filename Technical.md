@@ -1,4 +1,4 @@
-## **Technical Perspective**
+# **Technical Perspective**
 
 ### ❗Why Mirrors Don’t Tell Objective Truth:
 
